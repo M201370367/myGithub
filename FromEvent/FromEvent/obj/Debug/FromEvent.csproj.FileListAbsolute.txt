@@ -1,0 +1,42 @@
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\bin\Debug\FromEvent.exe.config
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\obj\Debug\FromEvent.csprojResolveAssemblyReference.cache
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\obj\Debug\FromEvent.Form1.resources
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\obj\Debug\FromEvent.Properties.Resources.resources
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\obj\Debug\FromEvent.csproj.GenerateResource.Cache
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\bin\Debug\FromEvent.exe
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\bin\Debug\FromEvent.pdb
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\bin\Debug\System.Reactive.Core.dll
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\bin\Debug\System.Reactive.Interfaces.dll
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\bin\Debug\System.Reactive.Linq.dll
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\bin\Debug\System.Reactive.Core.xml
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\bin\Debug\System.Reactive.Interfaces.xml
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\bin\Debug\System.Reactive.Linq.xml
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\obj\Debug\FromEvent.exe
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\obj\Debug\FromEvent.pdb
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\bin\Debug\System.Reactive.PlatformServices.dll
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\bin\Debug\System.Reactive.Providers.dll
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\bin\Debug\System.Reactive.Runtime.Remoting.dll
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\bin\Debug\System.Reactive.Windows.Forms.dll
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\bin\Debug\System.Reactive.Windows.Threading.dll
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\bin\Debug\System.Reactive.PlatformServices.xml
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\bin\Debug\System.Reactive.Providers.xml
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\bin\Debug\System.Reactive.Runtime.Remoting.xml
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\bin\Debug\System.Reactive.Windows.Forms.xml
+c:\users\harold\documents\visual studio 2012\Projects\FromEvent\FromEvent\bin\Debug\System.Reactive.Windows.Threading.xml
+E:\VSProjects\FromEvent\FromEvent\bin\Debug\FromEvent.exe.config
+E:\VSProjects\FromEvent\FromEvent\obj\Debug\FromEvent.exe
+E:\VSProjects\FromEvent\FromEvent\obj\Debug\FromEvent.pdb
+E:\VSProjects\FromEvent\FromEvent\bin\Debug\FromEvent.exe
+E:\VSProjects\FromEvent\FromEvent\bin\Debug\FromEvent.pdb
+E:\VSProjects\FromEvent\FromEvent\bin\Debug\System.Reactive.Core.xml
+E:\VSProjects\FromEvent\FromEvent\bin\Debug\System.Reactive.Interfaces.xml
+E:\VSProjects\FromEvent\FromEvent\bin\Debug\System.Reactive.Linq.xml
+E:\VSProjects\FromEvent\FromEvent\bin\Debug\System.Reactive.PlatformServices.xml
+E:\VSProjects\FromEvent\FromEvent\bin\Debug\System.Reactive.Providers.xml
+E:\VSProjects\FromEvent\FromEvent\bin\Debug\System.Reactive.Runtime.Remoting.xml
+E:\VSProjects\FromEvent\FromEvent\bin\Debug\System.Reactive.Windows.Forms.xml
+E:\VSProjects\FromEvent\FromEvent\bin\Debug\System.Reactive.Windows.Threading.xml
+E:\VSProjects\FromEvent\FromEvent\obj\Debug\FromEvent.csprojResolveAssemblyReference.cache
+E:\VSProjects\FromEvent\FromEvent\obj\Debug\FromEvent.Form1.resources
+E:\VSProjects\FromEvent\FromEvent\obj\Debug\FromEvent.Properties.Resources.resources
+E:\VSProjects\FromEvent\FromEvent\obj\Debug\FromEvent.csproj.GenerateResource.Cache
